@@ -6,3 +6,11 @@
 }
 
 
+@media screen and (min-width: 0) {
+   .rodapie__descripcion{
+       flex-direction: column;
+       margin-left: 6rem;
+       margin-right: 5rem;
+   }
+   
+}
